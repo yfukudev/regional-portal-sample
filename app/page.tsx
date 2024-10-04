@@ -79,12 +79,12 @@ export default function LocalPortalComponent() {
                 <CardContent>
                   <ul className="space-y-2">
                     <li>
-                      <Link href="/event/1" className="hover:underline">
+                      <Link href="/events/1" className="hover:underline">
                         夏祭り（8月1日〜3日）
                       </Link>
                     </li>
                     <li>
-                      <Link href="/event/2" className="hover:underline">
+                      <Link href="/events/2" className="hover:underline">
                         市民マラソン大会（9月15日）
                       </Link>
                     </li>
